@@ -3,6 +3,6 @@ color: blue;
 font-size: 12px;
 }
 #sentence2{
-  color: green;
-  font-size: 18px;
+  color: blue;
+  font-size: 12px;
 }
