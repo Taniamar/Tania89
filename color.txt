@@ -5,4 +5,8 @@ font-size: 12px;
 #sentence2{
   color: blue;
   font-size: 12px;
+#sentence5{
+  color: blue;
+  font-size: 12px;
+
 }
