@@ -6,8 +6,3 @@ font-size: 12px;
   color: blue;
   font-size: 12px;
 }
-#sentence4{
-  color: blue;
-  font-size: 12px;
-
-}
