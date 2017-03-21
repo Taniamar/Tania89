@@ -10,7 +10,5 @@
 My mission is to establish an environment where people are able to write down their toughts and things they need advice for.</p>
   <p id="sentence2"> Previous questions</p>
  <p id="sentence3"> Topic of the week:</p>
- <p id="sentence4"> Do you have any questions? Type in your question here!</p>
-<p id="sentence5"> In this website you will be able to create a safe space for your self to express your worries and get great advice out of it. Making it a great space for people within this community that will be cherished by it's users.</p>
-</body>
+ <p id="sentence4"> In this website you will be able to create a safe space for your self to express your worries and get great advice out of it. Making it a great space for people within this community that will be cherished by it's users. Do you have any questions? Type in your question here!</p>
 </html>
