@@ -4,17 +4,6 @@
   <title> Tania's website </title>
 </head>
 <body>
- <style>
-body {
-        background-image: url("cool2.jpg ");
-} 
- 
-</style>
- 
-</head>
-
- 
-</body>
 <h1> Welcome to my website! </h1>
 <img src="">
   <p> Mission statement:
