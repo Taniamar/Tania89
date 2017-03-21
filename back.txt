@@ -1,16 +1,9 @@
-<html>
-<head>
-<title>Page Title</title>
+html { 
+  background: url(cool2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
  
-<style>
-body {
-        background-image: url("cool2.jpg ");
-} 
- 
-</style>
- 
-</head>
- 
-<body>
- 
-</body>
