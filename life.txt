@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1> Welcome to my website! </h1>
-<img src="">
+<img src="cool1.jpg">
   <p> Mission statement:
 My mission is to establish an environment where people are able to write down their toughts and things they need advice for. The way i have strived to make this possible is by letting them express the way they feel. As well as getting amazing advice at the same time. This is what we need as a community so this is why i believeit's nessasary to have a website like this.</p>
   <p id="sentence2"> Previous questions</p>
